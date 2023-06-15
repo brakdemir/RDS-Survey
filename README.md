@@ -4,7 +4,7 @@ take a survey at aws RDS
 
 it is a simple survey service but this service using AWS RDS 
 
-![Alt text](imgs/1.png)
+![Alt text](imgs/first.png)
 
 ![Alt text](imgs/2.png)
 
